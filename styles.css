@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #5bd8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    /* font-family: Arial, sans-serif; */
+    margin: 20px;
+
+}
+
+h1, h2 {
+    color: #333;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#cart-items {
+    list-style-type: none;
+    padding: 0;
+}
+
+#cart-items li {
+    margin: 5px 0;
+}
